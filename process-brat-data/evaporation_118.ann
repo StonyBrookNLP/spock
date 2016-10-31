@@ -1,0 +1,11 @@
+T1	A2 42 48	causes
+T2	A0 49 54	water
+T3	A2 77 81	turn
+T4	A2 0 11	evaporation
+T5	NONE 12 18	occurs
+T6	NONE 49 98	water on earth's surface to turn into water vapor
+T7	NONE 55 73	on earth's surface
+T8	annotate_me 19 99	when heat from the sun causes water on earth's surface to turn into water vapor.
+T9	A1 24 41	heat from the sun
+T10	A3 87 99	water vapor.
+T11	annotate_me 74 99	to turn into water vapor.

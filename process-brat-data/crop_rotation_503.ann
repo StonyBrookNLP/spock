@@ -1,0 +1,12 @@
+T1	annotate_me 92 160	the accumulated allelochemicals of the previous crop or when they...
+T2	NONE 96 107	accumulated
+T3	NONE 80 88	affected
+T4	NONE 76 79	not
+T5	A2 0 13	crop rotation
+T6	annotate_me 43 160	only when the subsequent crop is not affected by the accumulated allelochemicals of the previous crop or when they...
+T7	NONE 14 19	helps
+T8	annotate_me 23 157	cures soil sickness only when the subsequent crop is not affected by the accumulated allelochemicals of the previous crop or when they
+T9	NONE 53 72	the subsequent crop
+T10	A2 23 28	cures
+T11	A3 20 42	to cures soil sickness
+T12	NONE 29 42	soil sickness

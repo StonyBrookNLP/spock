@@ -1,0 +1,7 @@
+T1	annotate_me 80 85	makes
+T2	annotate_me 0 4	seed
+T3	annotate_me 0 16	seed germination
+T4	annotate_me 17 24	depends
+T5	annotate_me 28 159	factors such as soil moisture content, the way seed makes contact with soil particles, the level of soil surface coverage by plant.
+T6	A1 44 65	soil moisture content
+T7	annotate_me 86 103	contact with soil

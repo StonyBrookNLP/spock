@@ -1,0 +1,6 @@
+T1	A0 36 43	a solid
+T2	A2 44 54	transforms
+T3	annotate_me 74 81	passing
+T4	A3 60 65	a gas
+T5	annotate_me 66 107	without passing through the liquid stage.
+T6	annotate_me 82 107	through the liquid stage.

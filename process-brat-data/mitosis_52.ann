@@ -1,0 +1,5 @@
+T1	A3 38 45	double.
+T2	A2 0 7	mitosis
+T3	NONE 8 14	causes
+T4	A3 15 34	the number of cells
+T5	annotate_me 15 44	the number of cells to double

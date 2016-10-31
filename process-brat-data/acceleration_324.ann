@@ -1,0 +1,14 @@
+T1	annotate_me 131 133	it
+T2	annotate_me 3 10	defined
+T3	annotate_me 148 155	energy.
+T4	annotate_me 3 21	defined by ke =1/2
+T5	annotate_me 14 21	ke =1/2
+T6	annotate_me 67 81	kinetic energy
+T7	annotate_me 67 82	kinetic energy,
+T8	A2 59 66	gaining
+T9	annotate_me 83 155	so the greater the power delivered, the quicker it gains kinetic energy.
+T10	annotate_me 59 155	gaining kinetic energy, so the greater the power delivered, the quicker it gains kinetic energy.
+T11	annotate_me 98 107	the power
+T12	annotate_me 134 139	gains
+T13	annotate_me 108 118	delivered,
+T14	annotate_me 119 130	the quicker

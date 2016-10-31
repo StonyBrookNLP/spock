@@ -1,0 +1,1 @@
+decomposition is the process of dividing the work in smaller parts, where all or some of them could be executed in parallel.

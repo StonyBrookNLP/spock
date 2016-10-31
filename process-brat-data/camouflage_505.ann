@@ -1,0 +1,7 @@
+T1	annotate_me 0 10	camouflage
+T2	A1 32 94	a strong similarity in color between background and foreground
+T3	annotate_me 11 17	occurs
+T4	annotate_me 18 95	when there is a strong similarity in color between background and foreground;
+T5	annotate_me 132 137	as...
+T6	annotate_me 121 131	classified
+T7	annotate_me 99 116	foreground pixels

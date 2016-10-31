@@ -1,0 +1,9 @@
+T1	A1 26 62	cold water entering your toilet tank
+T2	NONE 46 128	your toilet tank causing a drop in temperature on the outside surface of the tank.
+T3	annotate_me 26 128	cold water entering your toilet tank causing a drop in temperature on the outside surface of the tank.
+T4	NONE 0 12	condensation
+T5	NONE 63 70	causing
+T6	NONE 16 22	caused
+T7	NONE 93 128	on the outside surface of the tank.
+T8	A1 71 92	a drop in temperature
+T9	NONE 37 45	entering

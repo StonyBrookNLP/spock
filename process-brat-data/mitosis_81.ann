@@ -1,0 +1,8 @@
+T1	A0 32 45	a single cell
+T2	NONE 85 95	containing
+T3	NONE 96 146	the same number of chromosomes and genetic content
+T4	A2 46 53	divides
+T5	A3 59 153	two identical cells, each containing the same number of chromosomes and genetic content as the
+T6	A3 59 84	two identical cells, each
+T7	annotate_me 11 156	the process by which a single cell divides into two identical cells, each containing the same number of chromosomes and genetic content as the...
+T8	annotate_me 147 156	as the...

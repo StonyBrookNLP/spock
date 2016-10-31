@@ -1,0 +1,7 @@
+T1	annotate_me 44 51	consume
+T2	A3 44 72	consume fuel to produce heat
+T3	annotate_me 52 56	fuel
+T4	annotate_me 60 67	produce
+T5	annotate_me 0 25	the purpose of combustion
+T6	annotate_me 68 73	heat.
+T7	annotate_me 32 43	efficiently
