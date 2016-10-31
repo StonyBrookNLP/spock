@@ -1,0 +1,9 @@
+T1	A3 73 111	your water level to decrease over time
+T2	NONE 107 111	time
+T3	NONE 102 106	over
+T4	NONE 93 101	decrease
+T5	NONE 42 48	paired
+T6	NONE 66 72	causes
+T7	NONE 54 65	evaporation
+T8	NONE 0 65	check the water level - splashing around, paired with evaporation
+T9	NONE 73 89	your water level

@@ -1,0 +1,4 @@
+T1	A1 20 106	when the air and/or surfaces are cold and when the moisture content of the air is high
+T2	NONE 58 106	and when the moisture content of the air is high
+T3	NONE 0 12	condensation
+T4	NONE 13 19	occurs

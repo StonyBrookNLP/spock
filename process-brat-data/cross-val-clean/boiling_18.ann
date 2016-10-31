@@ -1,0 +1,7 @@
+T1	A3 20 86	the air inside to be forced out and replaced with hot water vapor.
+T2	A3 70 85	hot water vapor
+T3	NONE 0 12	this boiling
+T4	NONE 56 64	replaced
+T5	NONE 13 19	causes
+T6	NONE 35 85	to be forced out and replaced with hot water vapor
+T7	NONE 20 34	the air inside

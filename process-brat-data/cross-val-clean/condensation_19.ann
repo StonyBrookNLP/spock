@@ -1,0 +1,6 @@
+T1	A1 20 57	when evaporator coils draw water from
+T2	NONE 47 57	water from
+T3	NONE 0 12	condensation
+T4	NONE 13 19	occurs
+T5	NONE 25 41	evaporator coils
+T6	NONE 42 46	draw

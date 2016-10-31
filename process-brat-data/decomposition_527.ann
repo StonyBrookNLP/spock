@@ -1,8 +1,0 @@
-T1	annotate_me 41 124	the work in smaller parts, where all or some of them could be executed in parallel.
-T2	annotate_me 32 124	dividing the work in smaller parts, where all or some of them could be executed in parallel.
-T3	annotate_me 94 99	could
-T4	annotate_me 41 123	the work in smaller parts, where all or some of them could be executed in parallel
-T5	annotate_me 103 111	executed
-T6	annotate_me 74 93	all or some of them
-T7	annotate_me 112 124	in parallel.
-T8	A2 32 40	dividing

@@ -1,0 +1,4 @@
+T1	A1 95 127	through a semipermeable membrane
+T2	A2 34 41	forcing
+T3	NONE 34 127	forcing a solvent from a region of high solute concentration through a semipermeable membrane
+T4	NONE 57 94	a region of high solute concentration

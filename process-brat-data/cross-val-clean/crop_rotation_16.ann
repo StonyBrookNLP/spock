@@ -1,0 +1,11 @@
+T1	A3 20 42	to cures soil sickness
+T2	A2 0 13	crop rotation
+T3	A2 23 28	cures
+T4	NONE 43 157	only when the subsequent crop is not affected by the accumulated allelochemicals of the previous crop or when they
+T5	NONE 92 157	the accumulated allelochemicals of the previous crop or when they
+T6	NONE 96 107	accumulated
+T7	NONE 80 88	affected
+T8	NONE 76 79	not
+T9	NONE 14 19	helps
+T10	NONE 53 72	the subsequent crop
+T11	NONE 29 42	soil sickness

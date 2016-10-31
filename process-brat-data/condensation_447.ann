@@ -1,7 +1,0 @@
-T1	A1 40 54	a cold surface
-T2	annotate_me 20 55	when moist air hits a cold surface.
-T3	annotate_me 0 12	condensation
-T4	annotate_me 13 19	occurs
-T5	A0 25 34	moist air
-T6	annotate_me 40 55	a cold surface.
-T7	annotate_me 35 39	hits

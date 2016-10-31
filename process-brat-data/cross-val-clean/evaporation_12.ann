@@ -1,0 +1,6 @@
+T1	A3 49 54	a gas
+T2	A0 24 32	a liquid
+T3	A2 0 11	evaporation
+T4	A2 36 43	changed
+T5	NONE 19 54	when a liquid is changed into a gas
+T6	NONE 12 18	occurs

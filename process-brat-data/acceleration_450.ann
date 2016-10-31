@@ -1,9 +1,0 @@
-T1	NONE 32 107	when the speed is suddenly changed from a low level to a much higher level.
-T2	NONE 50 58	suddenly
-T3	NONE 87 107	a much higher level.
-T4	NONE 0 24	the extreme acceleration
-T5	A2 59 66	changed
-T6	NONE 67 83	from a low level
-T7	NONE 25 31	occurs
-T8	annotate_me 67 106	from a low level to a much higher level
-T9	A0 37 46	the speed

@@ -1,0 +1,6 @@
+T1	A3 55 67	water vapour
+T2	A0 24 36	liquid water
+T3	A2 0 11	evaporation
+T4	A2 40 49	converted
+T5	NONE 19 67	when liquid water is converted into water vapour
+T6	NONE 12 18	occurs

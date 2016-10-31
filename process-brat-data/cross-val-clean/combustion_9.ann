@@ -1,0 +1,7 @@
+T1	A1 54 80	pure oxygen instead of air
+T2	A0 41 47	a fuel
+T3	A2 33 40	burning
+T4	NONE 41 103	a fuel using pure oxygen instead of air as the primary oxidant
+T5	NONE 48 53	using
+T6	NONE 33 103	burning a fuel using pure oxygen instead of air as the primary oxidant
+T7	NONE 84 103	the primary oxidant
